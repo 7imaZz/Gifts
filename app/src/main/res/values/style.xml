@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Gifts" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <item name="android:fontFamily">@font/sfp</item>
+        <item name="fontFamily">@font/sfp</item>
+        <item name="android:windowDisablePreview">true</item>
+        <!--        <item name="android:windowTranslucentStatus">true</item>-->
+
+    </style>
+
+
+</resources>

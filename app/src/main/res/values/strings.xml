@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gifts</string>
+    <string name="cancel">Cancel</string>
+    <string name="daily_gifts">Daily Gifts</string>
+    <string name="redeem_your_gift">Redeem Your Gift</string>
+    <string name="come_back_tomorrow_for_more">Come Back Tomorrow For More!</string>
+</resources>
